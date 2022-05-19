@@ -1,0 +1,100 @@
+
+
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    background-image: url(./lawenda-1.jpg);
+    background-size: cover ;
+    min-height: 100vh;
+}
+
+.city{
+    background-color: rgba(236, 172, 255, 0.575);
+    margin-top: 30px;
+    margin: 0 auto;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+   
+
+}
+
+.coun{
+    background-color: rgba(201, 126, 231, 0.74);
+    margin-top: 30px;
+    margin: 0 auto;
+    width: 300px;
+    padding: 10px;
+    margin: 0 auto;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+   
+}
+.cloud{
+    background-color: rgba(173, 86, 184, 0.644);
+    margin-top: 30px;
+    margin: 0 auto;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.tep{
+    background-color: rgba(122, 35, 139, 0.445);
+    margin-top: 30px;
+    margin: 0 auto;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+}
+
+.flike{
+    background-color: rgba(228, 182, 213, 0.555);
+    margin-top: 30px;
+    margin: 0 auto;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+  
+}
+
+.tmin{
+    background-color: rgba(221, 131, 201, 0.527);
+    margin-top: 30px;
+    margin: 0 auto;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+
+}
+.tmax{
+    background-color: rgba(194, 123, 194, 0.5);
+    margin-top: 30px;
+    margin: 0 auto;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 20px 50px 100px 20px rgb(247, 0, 255);
+  
+}
+.zegar{
+    position: relative;
+    left: 38%;
+   
+}
+
+
+@media (max-width: 768px){
+
+    .Wszystko {
+        width: 100%;
+        padding:25px;
+        flex-direction: flex;
+    }
+   
+}
+
+
+
